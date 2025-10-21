@@ -31,3 +31,4 @@ What resources I have used for this website. Take a look at the following resour
 ## Deploy on Vercel
 
 Demo Link: [Imagination](https://magination.vercel.app/)
+Video Link: [Promotion Video](https://youtu.be/D5OrjN9FO28?si=PXrF6GBIFNZPNSiE)

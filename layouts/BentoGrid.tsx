@@ -23,7 +23,7 @@ const BentoGrid = () => {
               <div className="w-full aspect-video">
                 <iframe
                   className="w-full h-full object-cover object-left"
-                  src="https://www.youtube.com/embed/TsTz8T4ZBEA?si=pleApxcRooyO1mSh"
+                  src="https://www.youtube.com/embed/D5OrjN9FO28?si=AlKQv6QKB3yVDbye"
                   title="YouTube video player"
                   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                   allowFullScreen
