@@ -1,5 +1,7 @@
 This is childhood's imagination. When people see these symbolic representations, they associate each item with a special meaning
 
+<img src='./app/assets/imgs/banner.png' alt='TCL-header'/>
+
 ## Getting Started
 
 First, install dependence and run the development server:
@@ -30,5 +32,5 @@ What resources I have used for this website. Take a look at the following resour
 
 ## Deploy on Vercel
 
-Demo Link: [Imagination](https://magination.vercel.app/)
-Video Link: [Promotion Video](https://youtu.be/D5OrjN9FO28?si=PXrF6GBIFNZPNSiE)
+- Demo Link: [Imagination](https://magination.vercel.app/)
+- Video Link: [Promotion Video](https://youtu.be/D5OrjN9FO28?si=PXrF6GBIFNZPNSiE)
